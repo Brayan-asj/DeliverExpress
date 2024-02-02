@@ -1,2 +1,4 @@
 # DeliverExpress
-App Proyecto 
+App Proyecto
+
+Instalar con npm install
