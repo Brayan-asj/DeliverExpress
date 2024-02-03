@@ -13,10 +13,14 @@ Requisitos previos:
 
 ### Principalmente: 
     - Para poder clonar el repostiorio usar: git clone https://github.com/Brayan-asj/DeliverExpress
+
     - Para poder instalar correctamente las dependencias y node modules necesarios usar: npm install
+
     - Para correr la aplicación usar el comando: npx expo start (Necesario tener instalado anteriormente expo)
+
         - En caso de no tener el expo instalarlo con el siguiente comando: npm install -g expo-cli exp
+
     - ¡Listo, disfruta de la vista de la APP!
 
-Alumno: Solórzano Juárez Brayan Arturo
+Alumno: Solórzano Juárez Brayan Arturo <br>
 Asesore: Vara Chacon Pedro Said
