@@ -2,7 +2,7 @@
 Aplicaciones Móviles - React Native
 
 Requisitos previos: 
-    - Tener instalado Node.js y npm (Instalar por parte de la página principal de Node)
+    - Tener instalado Node.js y npm (Instalar por parte de la página principal de Node) \n
     - Tener instalado expo (Mirar el apartado de 'Principalmente')
     - Tener instalado Git (Instalar por aprte de la página principal de Git)
 
