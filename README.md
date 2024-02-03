@@ -11,8 +11,7 @@ Requisitos previos:
 2. Dirígete a la carpeta donde desees guardar el proyecto.
 3. Ejecuta el siguiente comando para clonar este repositorio: git clone https://github.com/Brayan-asj/DeliverExpress. 
 
-### Principalmente: 
-    - Para poder clonar el repostiorio usar: git clone https://github.com/Brayan-asj/DeliverExpress
+### Principalmente:
 
     - Para poder instalar correctamente las dependencias y node modules necesarios usar: npm install
 
