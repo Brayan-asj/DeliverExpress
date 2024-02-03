@@ -1,3 +1,6 @@
 {
-  "urlRandomness": "GPmOS84"
+  "urlRandomness": "GPmOS84",
+  "dev": true,
+  "minify": false,
+  "https": false
 }
